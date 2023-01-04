@@ -4,7 +4,7 @@
 - 🌱 I’m currently studying and practing R & SQL
 - 💞️ I’m looking to collaborate on data projects in addition to building my personal data portfolio.
 - 📫 You can reach me or learn more about me here: 
-  -  📊 Portfolio: brucelee352.github.io
+  -  📊 Portfolio: https://brucelee352.github.io
   -  📧 email: brucelee352@gmail.com 
   -  🔗 Linkedin: https://www.linkedin.com/in/bruceanthonylee/
 
