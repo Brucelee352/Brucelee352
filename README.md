@@ -1,10 +1,12 @@
-- 👋 Hi, I’m Bruce A. Lee
-- 👀 I’m interested in building projects and showing them off to the world! Bwahahahaha
-- 🌱 I’m currently learning more R and practing my SQL queries, I'll be updating my projects periodically
-- 💞️ I’m looking to collaborate on any R data analysis projects  
-- 📫 You can reach me here: 
--  📧 email: brucelee352@gmail.com 
--  🔗 Linkedin: https://www.linkedin.com/in/bruceanthonylee/
+👋 **Hi, I’m Bruce A. Lee**
+
+- 👀 This github is an extension of my porfolio, wher I show my projects off to the world! Mwahahahaha!!!
+- 🌱 I’m currently studying and practing R & SQL
+- 💞️ I’m looking to collaborate on data projects in addition to building my personal data portfolio.
+- 📫 You can reach me or learn more about me here: 
+  -  📊 Portfolio: brucelee352.github.io
+  -  📧 email: brucelee352@gmail.com 
+  -  🔗 Linkedin: https://www.linkedin.com/in/bruceanthonylee/
 
 <!---
 Brucelee352/Brucelee352 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
