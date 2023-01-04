@@ -1,6 +1,6 @@
 👋 **Hi, I’m Bruce A. Lee**
 
-- 👀 This github is an extension of my porfolio, wher I show my projects off to the world! Mwahahahaha!!!
+- 👀 This github is an extension of my porfolio, where I show my projects off to the world! Mwahahahaha!!!
 - 🌱 I’m currently studying and practing R & SQL
 - 💞️ I’m looking to collaborate on data projects in addition to building my personal data portfolio.
 - 📫 You can reach me or learn more about me here: 
