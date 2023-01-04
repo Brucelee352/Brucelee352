@@ -7,6 +7,7 @@
   -  📊 Portfolio: https://brucelee352.github.io
   -  📫 email: brucelee352@gmail.com 
   -  🔗 Linkedin: https://www.linkedin.com/in/bruceanthonylee/
+  -  📖 Medium: https://medium.com/@mrbrucelee
 
 <!---
 Brucelee352/Brucelee352 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
