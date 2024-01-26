@@ -1,12 +1,12 @@
 👋 **Hi, I’m Bruce A. Lee**
 
-- 👀 This github is an extension of my portfolio, where I show my projects off to the world! Mwahahahaha!!!
-- 🌱 I’m currently studying and practicing R & SQL
-- 💞️ I’m looking to collaborate on data projects, in addition to building my personal data portfolio.
+- 👀 This github is an extension of my Data Engineering portfolio!
+- 🌱 I’m currently studying and practicing building pipelines with Python and SQL
+- 💞️ I’m looking to collaborate on improving Python code for pipelines!
 - 👇 You can reach me or learn more about me here: 
   -  📊 Portfolio: https://brucelee352.github.io
   -  📫 email: brucelee352@gmail.com 
-  -  🔗 Linkedin: https://www.linkedin.com/in/bruceanthonylee/
+  -  🔗 Linkedin: https://www.linkedin.com/in/brucealee/
   -  📖 Medium: https://medium.com/@mrbrucelee
 
 <!---
