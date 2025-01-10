@@ -1,10 +1,9 @@
 👋 **Hi, I’m Bruce A. Lee**
 
 - 👀 This github is an extension of my Data Engineering portfolio!
-- 🌱 I’m currently studying and practicing building pipelines with Python and SQL
-- 💞️ I’m looking to collaborate on improving Python code for pipelines!
+- 🌱 I’m currently building an end to end pipeline in Python and SQL!
+- 💞️ I’m looking to collaborate on strategy and engineering best practices.
 - 👇 You can reach me or learn more about me here: 
-  -  📊 Portfolio: https://brucelee352.github.io
   -  📫 email: brucelee352@gmail.com 
   -  🔗 Linkedin: https://www.linkedin.com/in/brucealee/
   -  📖 Medium: https://medium.com/@mrbrucelee
