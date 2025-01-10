@@ -1,4 +1,6 @@
-👋 **Hi, I’m Bruce A. Lee**
+👋 **Hi there, I’m Bruce Lee**
+
+Thanks for stopping by! 
 
 - 👀 This github is an extension of my Data Engineering portfolio!
 - 🌱 I’m currently building an end to end pipeline in Python and SQL!
